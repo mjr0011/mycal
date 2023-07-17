@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Onah Calculator
+title = ONAH CALCULATOR
 
 # (str) Package name
 package.name = mycal
